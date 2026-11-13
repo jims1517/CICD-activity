@@ -14,5 +14,5 @@ student_year = 2
 display_student(
     student_name,
     student_course,
-    student_year
+    student_year,
 )
